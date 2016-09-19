@@ -4,6 +4,7 @@ var IMAGE_URLS = [
     'images/desert.jpg',
     'images/milky.jpg',
     'images/valley.jpg',
+    'images/leimu.jpg'
 ];
 
 var PING_TEXTURE_UNIT = 0,
