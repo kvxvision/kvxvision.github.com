@@ -93,10 +93,7 @@ var main = function () {
 
     document.getElementById('reset').onclick = function() {
         curve. setPoints([
-            [0, 75],
-            [200, 75],
-            [400, 75],
-            [600, 75]
+            [0, 75]
         ]);
     };
 
